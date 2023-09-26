@@ -1,0 +1,16 @@
+.anmelden {
+    display: flex;
+    flex-direction: row;
+    margin-left: 10px;
+}
+
+.sign-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    color: inherit;
+    text-decoration: inherit;
+    text-transform: uppercase;
+    outline: none;
+}
